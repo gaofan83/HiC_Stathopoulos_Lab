@@ -6,8 +6,7 @@ computeMatrix reference-point --referencePoint center -S \
                opa_nc14b.bw opa_nc14d.bw \
                -p 48 \
                -bs 500 \
-               -R Hug-et-al-Cell-2017-Supp-Site/boundaries_10kb_c12.bed Hug-et-al-Cell-2017-Supp-Site/boundaries_10kb_c13.bed Hug-et-al-Cell-2017-Supp-Site/boundaries_10kb_c14.bed Hug-et-al-C
-ell-2017-Supp-Site/boundaries_10kb_3-4h.bed \
+               -R Hug-et-al-Cell-2017-Supp-Site/boundaries_10kb_c12.bed Hug-et-al-Cell-2017-Supp-Site/boundaries_10kb_c13.bed Hug-et-al-Cell-2017-Supp-Site/boundaries_10kb_c14.bed Hug-et-al-Cell-2017-Supp-Site/boundaries_10kb_3-4h.bed \
                -b 50000 \
                -a 50000 \
                --skipZeros \
@@ -27,8 +26,7 @@ computeMatrix reference-point --referencePoint center -S \
                opa_nc14b.bw opa_nc14d.bw \
                -p 48 \
                -bs 500 \
-               -R Hug-et-al-Cell-2017-Supp-Site/boundaries_5kb_c12.bed Hug-et-al-Cell-2017-Supp-Site/boundaries_5kb_c13.bed Hug-et-al-Cell-2017-Supp-Site/boundaries_5kb_c14.bed Hug-et-al-Cell
--2017-Supp-Site/boundaries_5kb_3-4h.bed \
+               -R Hug-et-al-Cell-2017-Supp-Site/boundaries_5kb_c12.bed Hug-et-al-Cell-2017-Supp-Site/boundaries_5kb_c13.bed Hug-et-al-Cell-2017-Supp-Site/boundaries_5kb_c14.bed Hug-et-al-Cell-2017-Supp-Site/boundaries_5kb_3-4h.bed \
                -b 50000 \
                -a 50000 \
                --skipZeros \
@@ -48,8 +46,7 @@ computeMatrix reference-point --referencePoint center -S \
                opa_nc14b.bw opa_nc14d.bw \
                -p 48 \
                -bs 500 \
-               -R Hug-et-al-Cell-2017-Supp-Site/boundaries_2kb_c12.bed Hug-et-al-Cell-2017-Supp-Site/boundaries_2kb_c13.bed Hug-et-al-Cell-2017-Supp-Site/boundaries_2kb_c14.bed Hug-et-al-Cell
--2017-Supp-Site/boundaries_2kb_3-4h.bed \
+               -R Hug-et-al-Cell-2017-Supp-Site/boundaries_2kb_c12.bed Hug-et-al-Cell-2017-Supp-Site/boundaries_2kb_c13.bed Hug-et-al-Cell-2017-Supp-Site/boundaries_2kb_c14.bed Hug-et-al-Cell-2017-Supp-Site/boundaries_2kb_3-4h.bed \
                -b 50000 \
                -a 50000 \
                --skipZeros \
