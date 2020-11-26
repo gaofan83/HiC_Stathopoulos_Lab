@@ -1,3 +1,5 @@
+# install pyGenomeTracks https://github.com/deeptools/pyGenomeTracks#usage
+
 export PATH=/home/fgao/anaconda3.5.3/bin:$PATH
 export LD_LIBRARY_PATH=/home/fgao/anaconda3.5.3/lib:$LD_LIBRARY_PATH
 export MANPATH=/home/fgao/anaconda3.5.3/share/man:$MANPATH
